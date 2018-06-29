@@ -1,2 +1,4 @@
 # playground
-Just playing around
+Just Playing Around
+
+This is a repository for GitHub experiments.
